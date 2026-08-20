@@ -1,7 +1,10 @@
 # Wearable-Device-for-Tremor-Detection-and-Suppression
-<span style="font-size: 32px; font-weight: bold;">손떨림 감지·억제 웨어러블 프로젝트</span>  
+$$\Large\textbf{손떨림 감지·억제 웨어러블 프로젝트}$$  
 &nbsp;&nbsp;샐리적 떨림과 본태성 떨림을 실시간 감지하고, 진동 피드백으로 완화를 목표로 하는 TinyML 기반 시스템
 
+
+
+   
 - **장인 보조 협동로봇**, Part 1 - 대장장이 :  
   &nbsp;&nbsp;주조 
 - 개발 기간 : 2025.05.23-06.05(2주)  
