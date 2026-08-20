@@ -1,5 +1,5 @@
 # Wearable-Device-for-Tremor-Detection-and-Suppression
-<strong><font size="5">손떨림 감지·억제 웨어러블 프로젝트</font></strong>
+<strong><font size="10">손떨림 감지·억제 웨어러블 프로젝트</font></strong>  
 &nbsp;&nbsp;샐리적 떨림과 본태성 떨림을 실시간 감지하고, 진동 피드백으로 완화를 목표로 하는 TinyML 기반 시스템
 
 - **장인 보조 협동로봇**, Part 1 - 대장장이 :  
