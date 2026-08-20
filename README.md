@@ -1,5 +1,5 @@
 # Wearable Device for Tremor Detection & Suppression
-$$\Large\mathbf{\text{손떨림 감지·억제 웨어러블 프로젝트}}$$  
+$$\Large\mathbf{\text{손떨림 감지·억제 웨어러블 기기}}$$  
 : 생리적 떨림과 본태성 떨림을 실시간 감지하고, 진동 피드백으로 완화를 목표로 하는 TinyML 기반 시스템
 
 
